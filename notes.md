@@ -1,9 +1,9 @@
 {% include navbar.html %}
 # 5.1: Beneficial and Harmful Effects of Computing
 ### Notes
-i. UAVs/drones can be just as harmful as they are useful. While they can be used in search and rescue procedures or aerial photography, they can also be used to monitor private property or otherwise collect information that probably shouldn’t be collected.
-ii. Dopamine releases essentially indicate to the brain that performing a certain action is beneficial, and should be done again in the future. This is how addictions are formed, and how applications like social media or video games can be both fun and harmful at once.
-iii. Automated telephone trees are especially useful because it means that services can be offered to more people with less manual, human effort.
+i. UAVs/drones can be just as harmful as they are useful. While they can be used in search and rescue procedures or aerial photography, they can also be used to monitor private property or otherwise collect information that probably shouldn’t be collected.<br>
+ii. Dopamine releases essentially indicate to the brain that performing a certain action is beneficial, and should be done again in the future. This is how addictions are formed, and how applications like social media or video games can be both fun and harmful at once.<br>
+iii. Automated telephone trees are especially useful because it means that services can be offered to more people with less manual, human effort.<br>
 ### Actions
 1. Beneficial:
 - The Internet allows a wide range of information to be readily available to anybody with Internet access
