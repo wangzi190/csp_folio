@@ -9,7 +9,7 @@ iii. Automated telephone trees are especially useful because it means that servi
 - The Internet allows a wide range of information to be readily available to anybody with Internet access
 - The creation of automated programs or autonomous robots, etc. mean less manual work to solve problems
 - Computer programs eliminate possibility of human errors (so long as the program does what it is intended to)<br>
-Harmful:
+<br>Harmful:
 - Peoples’ personal information can also be investigated through the Internet, and used in harmful ways
 - Automated robots taking over ‘unskilled labor’ jobs will eliminate job opportunities for many people, and create a greater divide between the rich and poor
 - Society has become so dominated by technology that to lack access to tech means a disconnect from the world socially and economically
@@ -50,7 +50,7 @@ ii. When licensing their work, one should ask the following questions:
 - Do I want to waive default copyright in reuse?
 - Do I want to allow derivative works or not?
 - Do I want to require all derivative code to be shared?<br>
-iii. The types of licenses include:
+<br>iii. The types of licenses include:
 - Creative Commons Zero v1.0 Universal—waives copyright interest in a work you've created, and dedicates it to the world-wide public domain.
 - Open Source MIT License—allows using code freely and making and distributing closed source versions.
 - Open Source GPL License—allows most things except distributing closed source versions.
